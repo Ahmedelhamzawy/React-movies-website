@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-movies-website/static/css/main.d5d57053.chunk.css",
+    "main.js": "/React-movies-website/static/js/main.ff4684c8.chunk.js",
+    "main.js.map": "/React-movies-website/static/js/main.ff4684c8.chunk.js.map",
+    "runtime-main.js": "/React-movies-website/static/js/runtime-main.2d4cbd5d.js",
+    "runtime-main.js.map": "/React-movies-website/static/js/runtime-main.2d4cbd5d.js.map",
+    "static/css/2.150d169a.chunk.css": "/React-movies-website/static/css/2.150d169a.chunk.css",
+    "static/js/2.1be5265a.chunk.js": "/React-movies-website/static/js/2.1be5265a.chunk.js",
+    "static/js/2.1be5265a.chunk.js.map": "/React-movies-website/static/js/2.1be5265a.chunk.js.map",
+    "static/js/3.0d43345f.chunk.js": "/React-movies-website/static/js/3.0d43345f.chunk.js",
+    "static/js/3.0d43345f.chunk.js.map": "/React-movies-website/static/js/3.0d43345f.chunk.js.map",
+    "index.html": "/React-movies-website/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/React-movies-website/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.d5d57053.chunk.css.map": "/React-movies-website/static/css/main.d5d57053.chunk.css.map",
+    "static/js/2.1be5265a.chunk.js.LICENSE.txt": "/React-movies-website/static/js/2.1be5265a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d4cbd5d.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.1be5265a.chunk.js",
+    "static/css/main.d5d57053.chunk.css",
+    "static/js/main.ff4684c8.chunk.js"
+  ]
+}
